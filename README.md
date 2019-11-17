@@ -12,7 +12,10 @@
 
 - 일단 학교에서 관심이 많다
 - 12월에 프로토타입, 4~5월에 시제품화
-- 지도교수님 배정 (아마 우리는 최유경교수님)
+- 지도교수님 배정
+- 지도 교수님 : 최유경 교수님- Email : yk.choi@rcv.sejong.ac.kr
+- 공식 Github : https://github.com/sejongresearch/2019.AIHack.SAETI
+
 
 <br>
 
